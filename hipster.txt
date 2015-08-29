@@ -1,0 +1,7 @@
+Brackets makes it easy to see how your changes in HTML and CSS will affect the page. When your cursor is on a CSS rule, Brackets will highlight all affected elements in the browser. Similarly, when editing an HTML file, Brackets will highlight the corresponding HTML elements in the browser.
+
+Today, Brackets only supports Live Preview for HTML and CSS. However, in the current version, changes to JavaScript files are automatically reloaded when you save. We are currently working on Live Preview support for JavaScript. Live previews are also only possible with Google Chrome, but we hope to bring this functionality to all major browsers in the future.
+
+Quick View
+
+For those of us who haven't yet memorized the color equivalents for HEX or RGB values, Brackets makes it quick and easy to see exactly what color is being used. In either CSS or HTML, simply hover over any color value or gradient and Brackets will display a preview of that color/gradient automatically. The same goes for images: simply hover over the image link in the Brackets editor and it will display a thumbnail preview of that image.
